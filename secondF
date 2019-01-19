@@ -1,3 +1,8 @@
 first line
+<<<<<<< HEAD
 missed
 line
+=======
+Yet another file this is
+really
+>>>>>>> 1ce5e50fffcc37ca98e90bf1b1defd48cff0ca4f
